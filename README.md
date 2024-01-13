@@ -13,13 +13,13 @@ Before you start, make sure you have Python installed on your computer. If not, 
 1. Clone or download this repository to your computer.
 
     ```bash
-    git clone https://github.com/your-username/facial-recognition-attendance.git
+    git clone https://github.com/soumika-RM/Facial-Recognition-Attendance-System.git
     ```
 
 2. Open a terminal or command prompt and navigate to the project folder.
 
     ```bash
-    cd facial-recognition-attendance
+    cd Facial-recognition-Attendance-System
     ```
 
 3. Install the required Python packages.
