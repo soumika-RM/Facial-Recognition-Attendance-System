@@ -30,7 +30,7 @@ Before you start, make sure you have Python installed on your computer. If not, 
 
 ## Usage
 
-1. Place images of people you want to recognise in the `faces` folder. Make sure to name the images with the person's name (e.g., `ironman.jpeg`).
+1. Place images of people you want to recognise in the `images` folder. Make sure to name the images with the person's name (e.g., `ironman.jpeg`).
 
 2. Run the program.
 
@@ -44,7 +44,7 @@ Before you start, make sure you have Python installed on your computer. If not, 
 
 ## Customize
 
-Feel free to add more faces by placing additional images in the `faces` folder. Update the `known_face_names` list in the `main.py` file with the names of the people you added.
+Feel free to add more faces by placing additional images in the `images` folder.
 
 ## Troubleshooting
 
